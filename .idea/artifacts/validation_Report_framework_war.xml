@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="validation Report framework:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="InternationalizationValidation.war">
+      <element id="artifact" artifact-name="validation Report framework:war exploded" />
+    </root>
+  </artifact>
+</component>
